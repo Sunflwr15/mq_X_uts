@@ -86,10 +86,11 @@
     background-color: #18A558;
     width: 150px;
     height: 35px;
-    padding: 10px 0px 0px 30px;
+    padding: 10px 0px 0px 20px;
     border-radius: 15px;
 }
 .daftar a{
+    margin: auto;
     text-decoration: none;
     text-align: center;
     color: white;
@@ -400,13 +401,14 @@
     background-color: #18A558;
     width: 150px;
     height: 35px;
-    padding: 10px 0px 0px 30px;
+    padding: 10px 0px 0px 25px;
     border-radius: 15px;
     margin: auto;
 }
 .Daftar1 a{
     text-decoration: none;
     color: white;
+    text-align: center;
 }
 
 .footer1{
