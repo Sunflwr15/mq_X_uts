@@ -360,12 +360,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+.daftarluar{
+    width: 600px;
+    height: 200px;
+    margin: auto;
+}
 .Daftar {
     width: 50%;
     padding-top: 100px;
     position: absolute;
-    margin-left: 300px;
 }
 
 .Daftar h2 {
