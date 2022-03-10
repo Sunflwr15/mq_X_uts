@@ -39,6 +39,10 @@
     color: black;
     font-weight: 500;
 }
+.navbar a:hover{
+    color: #18A558;
+    transition-duration: 0.3s;
+}
 
 /* Body */
 
